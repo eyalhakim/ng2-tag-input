@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.ts"],"names":[],"mappings":"AAAA,cAAc,wBAAwB,CAAC;AACvC,cAAc,iBAAiB,CAAC","file":"index.js","sourceRoot":"","sourcesContent":["export * from './tag-ripple.component';\nexport * from './tag.component';\n"]}
