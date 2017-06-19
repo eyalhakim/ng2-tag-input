@@ -1,0 +1,1 @@
+{"summaries":[{"symbol":{"__symbol":0,"members":[]},"metadata":{"__symbolic":"class"},"type":{"summaryKind":0,"type":{"reference":{"__symbol":0,"members":[]},"diDeps":[],"lifecycleHooks":[]},"name":"highlight","pure":true}}],"symbols":[{"__symbol":0,"name":"HighlightPipe","filePath":"/Users/eyalhakim/dev/repos/ng2-tag-input/modules/core/pipes/highlight.pipe.d.ts"}]}
