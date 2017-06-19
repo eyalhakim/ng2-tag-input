@@ -99,7 +99,6 @@
   "homepage": "https://github.com/Gbuomprisco/ng2-tag-input",
   "main": "./dist/ng2-tag-input.bundle.js",
   "files": [
-    "modules",
     "dist",
     "index.ts",
     "tsconfig.json",
